@@ -10,7 +10,6 @@ export const Main = () => {
             const data = await fetchWeather(query);
             setWeather(data);
             setQuery();
-            console.log(data);
         }
     };
 
