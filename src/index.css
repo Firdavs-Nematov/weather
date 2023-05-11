@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.app {
+    background-image: url("https://coolwallpapers.me/picsup/6137966-2017-lightning-storm-weather-picture.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
